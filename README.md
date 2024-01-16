@@ -33,8 +33,8 @@ apt-get -y install php openssh git wget
 ## Installing (Kali Linux/Termux):
 
 ```
-git clone https://github.com/techchipnet/CamPhish
-cd CamPhish
+git clone https://github.com/areeb1804/camera-hacking.git
+cd camera-hacking
 bash camphish.sh
 ```
 
