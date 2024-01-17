@@ -246,7 +246,7 @@ printf "\n-----Choose tunnel server----\n"
 printf "\n\e[1;93m select option 2 to go ahead\e[0m\n"
 printf "\e[1;92m[\e[0m\e[1;77m02\e[0m\e[1;92m]\e[0m\e[1;93m Serveo.net\e[0m\n"
 default_option_server="1"
-read -p $'\n\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m] Choose a Port Forwarding option: [Default is 1] \e[0m' option_server
+read -p $'\n\e[1;92m[\e[0m\e[1;77m+\e[0m\e[1;92m] Choose a Port Forwarding option: \e[0m' option_server
 option_server="${option_server:-${default_option_server}}"
 select_template
 if [[ $option_server -eq 2 ]]; then
