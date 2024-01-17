@@ -16,7 +16,7 @@ printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | 
 printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
 printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n"
 printf " \e[1;93m CamPhish Ver 1.5 \e[0m \n"
-printf " \e     Welcome to areeb hacking \e[0m \n"
+printf " \ew Welcome to areeb hacking \e[0m \n"
 
 printf "\n"
 
